@@ -14,81 +14,81 @@
   Referrer-Policy: same-origin
 /static/*
   Cache-Control: public, max-age=31536000, immutable
-/design/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
-  Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
-/research/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
-  Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /me/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
+  Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
+/design/
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /resume/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
-  Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
-/teaching/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /learn/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
-/abaqus-batch-files/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+/teaching/
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /mentoria/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
+  Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
+/research/
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /teaching-ciencia-de-materiales/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
-/tags/solid-mechanics/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
-  Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
-/tags/eng/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+/abaqus-batch-files/
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /tags/personal/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
+  Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
+/tags/solid-mechanics/
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /tags/esp/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /tags/teaching/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
-/categories/solid mechanics/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+/tags/eng/
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /categories/español/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /categories/popular/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
+  Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
+/categories/solid mechanics/
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /404/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /blog/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /categories/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /contact/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /newsletter/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /publications/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /tags/
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /404.html
-  Link: </webpack-runtime-ccf34bd9c618bfc278fd.js>; rel=preload; as=script
+  Link: </webpack-runtime-5e503cb3b35779389837.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
