@@ -1,49 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gustavo Quino]]></title><description><![CDATA[Personal website of Dr Gustavo Quino, researcher at the University of Oxford and musician.]]></description><link>https://www.gquino.com/https://www.gquino.com</link><image><url>https://www.gquino.com/https://www.gquino.com/logos/logo-48.png</url><title>Gustavo Quino</title><link>https://www.gquino.com/https://www.gquino.com</link></image><generator>Gustavo Quino</generator><lastBuildDate>Sat, 14 Sep 2019 15:43:59 GMT</lastBuildDate><atom:link href="https://www.gquino.com/https://www.gquino.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Design]]></title><description><![CDATA[I got a degree in  Mechanical Engineering   at Universidad Nacional de Ingeniería in Lima-Peru. I have worked on a wide variety of design projects. Below you can see some of my…]]></description><link>https://www.gquino.com/https://www.gquino.com/design/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/design/</guid><content:encoded>&lt;p&gt;I got a degree in &lt;strong&gt;Mechanical Engineering&lt;/strong&gt;  at Universidad Nacional de Ingeniería in Lima-Peru. I have worked on a wide variety of design projects.&lt;/p&gt;
-&lt;p&gt;Below you can see some of my design projects, mainly developed using &lt;strong&gt;SolidWorks&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;thermal-chamber-for-in-situ-testing&quot;&gt;&lt;a href=&quot;#thermal-chamber-for-in-situ-testing&quot; aria-label=&quot;thermal chamber for in situ testing permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Thermal chamber for in-situ testing&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;../images/Design_Thermalchamber.jpg&quot; alt=&quot;Thermal Chamber&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;equipment-for-mechanical-testing-and-experimental-setups&quot;&gt;&lt;a href=&quot;#equipment-for-mechanical-testing-and-experimental-setups&quot; aria-label=&quot;equipment for mechanical testing and experimental setups permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Equipment for mechanical testing and experimental setups&lt;/h2&gt;
-&lt;p&gt;Micro mechanical testing for:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Micro compact tension tests&lt;/li&gt;
-&lt;li&gt;In-situ Compression of sand grains
-&lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/548302617138f64266e744ec22ef897f/8ee4c/Design_Sandgrains.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 850px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75.31380753138076%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC0klEQVQoz3VSWU8aURSeX9c0felDa9/60Fgx2mpbjbhAC7ilsbYiqaaiFC0KjbUtooKBBhVBouCCGyJuyKoMw9w7G8ww2CskNk3ruScnX+7N953lHixOAKEgXpUsEQ6zDINAsVhEMUUAXihc3W7Y2WWmjIKx6Le+99uhA4TFEjkDaeQ3Wv8hEyxXRqFUUjdv3QyHb8g5QeB4oUxmcnmW5xEsiCJgWECzqCiM4jj0VhAEEpBkIs5AsnidCB0BsiyXR4QrjudxSDEcJxQKFE2ls2Qcx0+SSSyXz6M8gc31N0rFiKbXYxs9Oz0CJJE+86WzOGIKokhAKkuC0GFoZysAGRbxcywaDoOhNCTDBLa3HlXclzx8MGPSLy0552ZnYokIm89nEI2ijs9jgdV1ZVNTT7M0t+hmMxSkaQgAhrRRGziA07PTff0fpmctFzieyhBsHjVV8O7v751EvK6Vc73O2vRqrK7GIGvzOz00y/B5HrsZHRoRL4qoT8gwSA7dAJreCh/tr63HR3VAOxDTqFWVlY8lTzWaHrt93rW2el02MrEU/wiV8AVB2N0rmo6O8wHNmUY9LJc1tzZWvKytkjZIOlVPqiXYv793rVXKfJpImscNyvqaXyrFiFwmfS3T9qo6tYONlqnuNVfrzCQWjUZtNpvb7bbb7Q6Hw+/3C4JQVrkks/aJn9YG6aJS0VJdL29p7B4eeLfq/hQ5/Jg6HT88xoLB4NDQkNFoNJlMBoMBRYvFYjab/T4fSUPH3OKCcsrea3xR+/zuvTtVdc9URsMgHjMdR3Z1uxjPCwRBkCT6LwZSFIQQ4XQ6ncFxVL/X71v+7pyemFLK2+o6u2rftndNjo6fnO583k30H2G3LX15Zmkc93g9B4GNr0aDWtHXo9brPf7gWCiuDhMjFxiAFAkgCSgS7QP42yENGc7pWllYWg4ENhxW65de7Y9204l6DzGB7vI3Hizy9S7n5PUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Thermal Chamber&quot;
-        title=&quot;&quot;
-        src=&quot;/static/548302617138f64266e744ec22ef897f/06bbf/Design_Sandgrains.png&quot;
-        srcset=&quot;/static/548302617138f64266e744ec22ef897f/6b538/Design_Sandgrains.png 213w,
-/static/548302617138f64266e744ec22ef897f/3c081/Design_Sandgrains.png 425w,
-/static/548302617138f64266e744ec22ef897f/06bbf/Design_Sandgrains.png 850w,
-/static/548302617138f64266e744ec22ef897f/b1e55/Design_Sandgrains.png 1275w,
-/static/548302617138f64266e744ec22ef897f/8ee4c/Design_Sandgrains.png 1434w&quot;
-        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
-      /&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Low-cost electrodynamic shaker&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;nanosatellite-chasqui-i&quot;&gt;&lt;a href=&quot;#nanosatellite-chasqui-i&quot; aria-label=&quot;nanosatellite chasqui i permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Nanosatellite Chasqui I&lt;/h2&gt;
-&lt;p&gt;The first Peruvian nanosatellite.
-&lt;img src=&quot;../images/Design_Integrationchasqui.png&quot; alt=&quot;Chasqui I&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;industrial-engineering-projects&quot;&gt;&lt;a href=&quot;#industrial-engineering-projects&quot; aria-label=&quot;industrial engineering projects permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Industrial Engineering Projects&lt;/h2&gt;
-&lt;p&gt;From my last years of undergraduate studies, I got involved with various industrial design projects.&lt;/p&gt;</content:encoded><author>me@gquino.com</author></item><item><title><![CDATA[About me]]></title><description><![CDATA[I’m Gustavo Quino, a postdoctoral research associate at the  University of Oxford . I do  research  and  teaching  at the Engineering Science Department. I study the strain rate…]]></description><link>https://www.gquino.com/https://www.gquino.com/me/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/me/</guid><content:encoded>&lt;p&gt;I’m Gustavo Quino, a postdoctoral research associate at the &lt;a href=&quot;http://www.ox.ac.uk/&quot;&gt;University of Oxford&lt;/a&gt;. I do &lt;a href=&quot;/research&quot;&gt;research&lt;/a&gt; and &lt;a href=&quot;/teaching&quot;&gt;teaching&lt;/a&gt; at the Engineering Science Department. I study the strain rate dependent behaviour of various materials: polymers, composites, foams, and granular materials.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gustavo Quino]]></title><description><![CDATA[Personal website of Dr Gustavo Quino, researcher at the University of Oxford and musician.]]></description><link>https://www.gquino.com/https://www.gquino.com</link><image><url>https://www.gquino.com/https://www.gquino.com/logos/logo-48.png</url><title>Gustavo Quino</title><link>https://www.gquino.com/https://www.gquino.com</link></image><generator>Gustavo Quino</generator><lastBuildDate>Sat, 14 Sep 2019 16:42:11 GMT</lastBuildDate><atom:link href="https://www.gquino.com/https://www.gquino.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[About me]]></title><description><![CDATA[I’m Gustavo Quino, a postdoctoral research associate at the  University of Oxford . I do  research  and  teaching  at the Engineering Science Department. I study the strain rate…]]></description><link>https://www.gquino.com/https://www.gquino.com/me/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/me/</guid><content:encoded>&lt;p&gt;I’m Gustavo Quino, a postdoctoral research associate at the &lt;a href=&quot;http://www.ox.ac.uk/&quot;&gt;University of Oxford&lt;/a&gt;. I do &lt;a href=&quot;/research&quot;&gt;research&lt;/a&gt; and &lt;a href=&quot;/teaching&quot;&gt;teaching&lt;/a&gt; at the Engineering Science Department. I study the strain rate dependent behaviour of various materials: polymers, composites, foams, and granular materials.
 I also like to play music.&lt;/p&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -414,7 +369,111 @@ My current project aims to understand the influence of humidity and temperature 
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; &lt;a href=&quot;/what-are-vagrant-and-virtualbox-and-how-do-i-use-them/&quot;&gt;Vagrant/VirtualBox&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded><author>me@gquino.com</author></item><item><title><![CDATA[Enseñando Ciencia de Materiales en la Universidad de Oxford]]></title><description><![CDATA[Introducción Empezaré este artículo siendo brutalmente honesto con todos. Ciencia de materiales fue uno de los cursos que pasé con menor nota durante el pregrado. Eso no significa…]]></description><link>https://www.gquino.com/https://www.gquino.com/teaching-ciencia-de-materiales/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/teaching-ciencia-de-materiales/</guid><category><![CDATA[solid mechanics]]></category><category><![CDATA[esp]]></category><category><![CDATA[teaching]]></category><pubDate>Sun, 21 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;introduccion&quot;&gt;&lt;a href=&quot;#introduccion&quot; aria-label=&quot;introduccion permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Introducción&lt;/h2&gt;
+&lt;/ul&gt;</content:encoded><author>me@gquino.com</author></item><item><title><![CDATA[Design]]></title><description><![CDATA[I got a degree in  Mechanical Engineering   at Universidad Nacional de Ingeniería in Lima-Peru. I have worked on a wide variety of design projects. Below you can see some of my…]]></description><link>https://www.gquino.com/https://www.gquino.com/design/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/design/</guid><content:encoded>&lt;p&gt;I got a degree in &lt;strong&gt;Mechanical Engineering&lt;/strong&gt;  at Universidad Nacional de Ingeniería in Lima-Peru. I have worked on a wide variety of design projects.&lt;/p&gt;
+&lt;p&gt;Below you can see some of my design projects, mainly developed using &lt;strong&gt;SolidWorks&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;thermal-chamber-for-in-situ-testing&quot;&gt;&lt;a href=&quot;#thermal-chamber-for-in-situ-testing&quot; aria-label=&quot;thermal chamber for in situ testing permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Thermal chamber for in-situ testing&lt;/h2&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/90c5d6f300aa772eab82df19d27a6a64/12649/DesChamber.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 850px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.98529411764706%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGqtWRKIgr/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABEBESE//aAAgBAQABBQLq6nsN4YjqEtsEGa//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAACAQUBAAAAAAAAAAAAAAAAAUECEBEhMmH/2gAIAQEABj8Cg07ZVTTIfp0f/8QAGxABAQACAwEAAAAAAAAAAAAAAQARUSExcYH/2gAIAQEAAT8he4eido1ZkX1y4gkBHN//2gAMAwEAAgADAAAAEDcf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QV//EAB0QAQADAAEFAAAAAAAAAAAAAAEAETEhQVFxsfD/2gAIAQEAAT8QrCorbWFC5vSFAjih9UeUorGJiW1HKAL5hBU9jn3P/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Thermal Chamber&quot;
+        title=&quot;&quot;
+        src=&quot;/static/90c5d6f300aa772eab82df19d27a6a64/52f85/DesChamber.jpg&quot;
+        srcset=&quot;/static/90c5d6f300aa772eab82df19d27a6a64/9f4e0/DesChamber.jpg 213w,
+/static/90c5d6f300aa772eab82df19d27a6a64/075b4/DesChamber.jpg 425w,
+/static/90c5d6f300aa772eab82df19d27a6a64/52f85/DesChamber.jpg 850w,
+/static/90c5d6f300aa772eab82df19d27a6a64/bb5d9/DesChamber.jpg 1275w,
+/static/90c5d6f300aa772eab82df19d27a6a64/bd2e4/DesChamber.jpg 1700w,
+/static/90c5d6f300aa772eab82df19d27a6a64/12649/DesChamber.jpg 2176w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;equipment-for-mechanical-testing-and-experimental-setups&quot;&gt;&lt;a href=&quot;#equipment-for-mechanical-testing-and-experimental-setups&quot; aria-label=&quot;equipment for mechanical testing and experimental setups permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Equipment for mechanical testing and experimental setups&lt;/h2&gt;
+&lt;p&gt;Micro mechanical testing for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Micro compact tension tests&lt;/li&gt;
+&lt;li&gt;In-situ Compression of sand grains
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/548302617138f64266e744ec22ef897f/8ee4c/DesSand.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 850px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75.31380753138076%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC0klEQVQoz3VSWU8aURSeX9c0felDa9/60Fgx2mpbjbhAC7ilsbYiqaaiFC0KjbUtooKBBhVBouCCGyJuyKoMw9w7G8ww2CskNk3ruScnX+7N953lHixOAKEgXpUsEQ6zDINAsVhEMUUAXihc3W7Y2WWmjIKx6Le+99uhA4TFEjkDaeQ3Wv8hEyxXRqFUUjdv3QyHb8g5QeB4oUxmcnmW5xEsiCJgWECzqCiM4jj0VhAEEpBkIs5AsnidCB0BsiyXR4QrjudxSDEcJxQKFE2ls2Qcx0+SSSyXz6M8gc31N0rFiKbXYxs9Oz0CJJE+86WzOGIKokhAKkuC0GFoZysAGRbxcywaDoOhNCTDBLa3HlXclzx8MGPSLy0552ZnYokIm89nEI2ijs9jgdV1ZVNTT7M0t+hmMxSkaQgAhrRRGziA07PTff0fpmctFzieyhBsHjVV8O7v751EvK6Vc73O2vRqrK7GIGvzOz00y/B5HrsZHRoRL4qoT8gwSA7dAJreCh/tr63HR3VAOxDTqFWVlY8lTzWaHrt93rW2el02MrEU/wiV8AVB2N0rmo6O8wHNmUY9LJc1tzZWvKytkjZIOlVPqiXYv793rVXKfJpImscNyvqaXyrFiFwmfS3T9qo6tYONlqnuNVfrzCQWjUZtNpvb7bbb7Q6Hw+/3C4JQVrkks/aJn9YG6aJS0VJdL29p7B4eeLfq/hQ5/Jg6HT88xoLB4NDQkNFoNJlMBoMBRYvFYjab/T4fSUPH3OKCcsrea3xR+/zuvTtVdc9URsMgHjMdR3Z1uxjPCwRBkCT6LwZSFIQQ4XQ6ncFxVL/X71v+7pyemFLK2+o6u2rftndNjo6fnO583k30H2G3LX15Zmkc93g9B4GNr0aDWtHXo9brPf7gWCiuDhMjFxiAFAkgCSgS7QP42yENGc7pWllYWg4ENhxW65de7Y9204l6DzGB7vI3Hizy9S7n5PUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Thermal Chamber&quot;
+        title=&quot;&quot;
+        src=&quot;/static/548302617138f64266e744ec22ef897f/06bbf/DesSand.png&quot;
+        srcset=&quot;/static/548302617138f64266e744ec22ef897f/6b538/DesSand.png 213w,
+/static/548302617138f64266e744ec22ef897f/3c081/DesSand.png 425w,
+/static/548302617138f64266e744ec22ef897f/06bbf/DesSand.png 850w,
+/static/548302617138f64266e744ec22ef897f/b1e55/DesSand.png 1275w,
+/static/548302617138f64266e744ec22ef897f/8ee4c/DesSand.png 1434w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Low-cost electrodynamic shaker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;nanosatellite-chasqui-i&quot;&gt;&lt;a href=&quot;#nanosatellite-chasqui-i&quot; aria-label=&quot;nanosatellite chasqui i permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Nanosatellite Chasqui I&lt;/h2&gt;
+&lt;p&gt;The first Peruvian nanosatellite.
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bdf6cffc200e311be1e9406334ca8678/f32a1/DesChasqui.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 850px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAB4aAAAeGgHZXKRrAAACqklEQVQ4y3WT7U/SURTH+V981WptuV5kbfmilmNq+YAlMDUlcD4BDcnMTZtJzS2tDEkHbprON80tRbRsuolbL3gwxVBr5kCFoQPHC3lIwG/3Ir9fgHi2s/1+997zued77jmck5MTME4t+Z/1WAwx4hn30pyDJEuHxhIgdp94Mjg5hjGO1+uFw+lkF9Ih1HwHHrh3nDT6PzwBTlfFocF7ey7YbGs4PDxkA6KRKP6s2aDt64VcIkFHWyuGBzX4bf+JUDB4RhWbIfMRDodht6/DvrGBX+t2TI2NQDvwDlfzLuP6vVsoV0hx8cIl5HO50Gn6sWq1IkRikjOMA5laMeb1+TCgfo8WpQLyF0pkc6+hpKkGje1tyLqShZzbORBX8dHX1Y5AIJAZyCwy4KWFOfAqiiGoE6JcxIdAXI2qlgZwhTfR1FAKiUwA9Zsu/A2FzsjmpD77KdD03YjS6lxUSgUoEvLQJJOhuV4MIf8OCh4R+Y+FGBseJMDw+UBqkcgxAuTWFYsJlZK7KCTB2dxslAmKUCuqRnFtHh4050L0VAT9p3FEjo/Pl0zlBsnr0Tay21bRreoEr6YMOQU3cF9YiJqKEvBq80ld5VA8U8I4O33aDdFoCpQFRgnw6OgI+wf7sC4vY0SnRVfHc5RVCsCvKIWs4SFU5NW7X/XgiUyKqcnPKb2bIplZpEC32w2T2YSPo6PQfuiHurcH8sY6tErr0dOpgu7ta8x9/YJpwwwm9Xq4yPmMGTJAl8uFDdKLi8ZFjBCoRt2HIQLu736J8aFBfJufh8VixQ6Zru3tbRhmZvFjZZWFZqzh7u5uHGo2m0kmBkxMTGB+YQGLS0uwkobe3NyEw+GITxYdCL/fnwpk60gKTLOkBz0eD5yJLGgwdfq9tbUVv5Du03PBxBgynH+kTAgURnZ3DAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Chasqui I&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bdf6cffc200e311be1e9406334ca8678/06bbf/DesChasqui.png&quot;
+        srcset=&quot;/static/bdf6cffc200e311be1e9406334ca8678/6b538/DesChasqui.png 213w,
+/static/bdf6cffc200e311be1e9406334ca8678/3c081/DesChasqui.png 425w,
+/static/bdf6cffc200e311be1e9406334ca8678/06bbf/DesChasqui.png 850w,
+/static/bdf6cffc200e311be1e9406334ca8678/b1e55/DesChasqui.png 1275w,
+/static/bdf6cffc200e311be1e9406334ca8678/f32a1/DesChasqui.png 1500w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;industrial-engineering-projects&quot;&gt;&lt;a href=&quot;#industrial-engineering-projects&quot; aria-label=&quot;industrial engineering projects permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Industrial Engineering Projects&lt;/h2&gt;
+&lt;p&gt;From my last years of undergraduate studies, I got involved with various industrial design projects.&lt;/p&gt;</content:encoded><author>me@gquino.com</author></item><item><title><![CDATA[Enseñando Ciencia de Materiales en la Universidad de Oxford]]></title><description><![CDATA[Introducción Empezaré este artículo siendo brutalmente honesto con todos. Ciencia de materiales fue uno de los cursos que pasé con menor nota durante el pregrado. Eso no significa…]]></description><link>https://www.gquino.com/https://www.gquino.com/teaching-ciencia-de-materiales/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/teaching-ciencia-de-materiales/</guid><category><![CDATA[solid mechanics]]></category><category><![CDATA[esp]]></category><category><![CDATA[teaching]]></category><pubDate>Sun, 21 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;introduccion&quot;&gt;&lt;a href=&quot;#introduccion&quot; aria-label=&quot;introduccion permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Introducción&lt;/h2&gt;
 &lt;p&gt;Empezaré este artículo siendo brutalmente honesto con todos. Ciencia de materiales fue uno de los cursos que pasé con menor nota durante el pregrado. Eso no significa que no me guste ni que no sepa nada, creo que mi baja nota fue el resultado de una mezcla de exámenes difíciles y conceptos no muy sencillos de digerir. Recuerdo que el profesor decía &quot;creo que este curso deberia estar más adelante en la carrera&quot;.&lt;/p&gt;
 &lt;p&gt;En en el Departamento de Ciencias de Ingeniería (&lt;a href=&quot;https://www.eng.ox.ac.uk/&quot;&gt;Engineering Science Department&lt;/a&gt;) de la Universidad de Oxford, Ciencia de Materiales es un curso opcional para los estudiantes de tercer año. Es necesario aclarar por qué es opcional y cómo es el programa de Ingeniería en esta universidad.&lt;/p&gt;
 &lt;p&gt;En Oxford, solamente existe la carrera de Ingeniería &quot;a secas&quot;. Así es, no hay grados de ingeniero industrial, o ingeniero civil, ni nada de eso. Todos, hasta el segundo año llevan los mismos cursos básicos como matemáticas, programación, etc etc. Es en el tercer año en que los estudiantes se especializan llevando cursos electivos dependiendo de sus intereses. Por ejemplo, alguien que quiere acercarse a la especialidad de ingeniería mecanica optará por llevar cursos de energía o de estructuras.&lt;/p&gt;
