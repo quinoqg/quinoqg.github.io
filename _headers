@@ -14,78 +14,78 @@
   Referrer-Policy: same-origin
 /static/*
   Cache-Control: public, max-age=31536000, immutable
-/https://www.gquino.com/abaqus-batch-files/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
-  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
-/https://www.gquino.com/learn/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
-  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
-/https://www.gquino.com/design/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+/https://www.gquino.com/teaching-ciencia-de-materiales/
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/me/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
-  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
-/https://www.gquino.com/research/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
-  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
-/https://www.gquino.com/teaching/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
-  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
-/https://www.gquino.com/mentoria/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/resume/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
-/https://www.gquino.com/teaching-ciencia-de-materiales/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+/https://www.gquino.com/learn/
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
+/https://www.gquino.com/research/
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
+/https://www.gquino.com/mentoria/
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
+/https://www.gquino.com/design/
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
+/https://www.gquino.com/teaching/
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
+/https://www.gquino.com/abaqus-batch-files/
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/tags/solid-mechanics/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
-  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
-/https://www.gquino.com/tags/eng/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
-  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
-/https://www.gquino.com/tags/personal/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/tags/teaching/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
+/https://www.gquino.com/tags/personal/
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
+/https://www.gquino.com/tags/eng/
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/categories/solid mechanics/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/categories/español/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/categories/popular/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/404/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/blog/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/categories/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/contact/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/newsletter/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/publications/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/tags/
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
 /https://www.gquino.com/404.html
-  Link: </https://www.gquino.com/webpack-runtime-4cca7e743ec660de243d.js>; rel=preload; as=script
+  Link: </https://www.gquino.com/webpack-runtime-2d8a426381581b44b45d.js>; rel=preload; as=script
   Link: </https://www.gquino.com/styles.154d4c0cdafe8bcd7e7c.css>; rel=preload; as=script
