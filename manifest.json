@@ -1,0 +1,9 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/GustavoFooter.jpg": "static/GustavoFooter-e895a9896cc718b35e50dc8ca67c71da.jpg",
+  "static/codrops.png": "static/codrops-2d7b2a1fab472ef02babd2186b76f4d8.png",
+  "static/coffee.svg": "static/coffee-ab3d234dc206fcf5d5a3bb1a98da478a.svg",
+  "static/egghead.png": "static/egghead-ccdd804c87d12f9e024c9cc532e795a3.png",
+  "static/escher-160.png": "static/escher-160-a7849171a41ab899c40b8647b47f28db.png"
+}
