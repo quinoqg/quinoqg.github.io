@@ -15,98 +15,98 @@
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /design/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /me/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /teaching/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /resume/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /learn/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /research/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /abaqus-batch-files/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /mentoria/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /teaching-ciencia-de-materiales/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /3d-printing-a-quena/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /tags/solid-mechanics/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /tags/eng/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /tags/personal/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /tags/teaching/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /tags/design/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /tags/solid-works/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /tags/diy/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /categories/solid mechanics/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /categories/español/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /categories/popular/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /categories/teaching/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /categories/design/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /categories/music/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /404/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /blog/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /categories/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /contact/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /newsletter/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /publications/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /tags/
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
 /404.html
-  Link: </webpack-runtime-77afbaef83bb7ac1d894.js>; rel=preload; as=script
+  Link: </webpack-runtime-eb0cb85a10ffa9b1815a.js>; rel=preload; as=script
   Link: </styles.762750d5610c684297dc.css>; rel=preload; as=script
