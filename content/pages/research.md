@@ -40,6 +40,8 @@ I like to be challenged by complex experimental setups. I have designed my own e
 
 ## Conferences
 
+**G. Quino**, A. Pellegrino, N. Petrinic. "Composites in extreme environments: Effects of high strain rate, humidity and temperature", in International Conference on Defence Technology, 26-29 October 2020. Nanjing, China.
+
 **G. Quino**, V. L. Tagarielli, and N. Petrinic, “Towards a strain rate and water ageing sensitive constitutive modelling: Effects of strain rate and water uptake upon the properties of E-glass fibre reinforced epoxy,” in 5th International Conference on Mechanics of Composites, Lisbon, 2019.
 
 **G. Quino**, V. L. Tagarielli, and N. Petrinic, “Water ageing effects upon the mechanical properties of E-glass fibre reinforced epoxy and its constituents,” in Engineering Mechanics Institute Conference, Pasadena, 2019.

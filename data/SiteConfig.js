@@ -5,6 +5,8 @@ const config = {
   siteLogo: '/logos/logo-48-n.png',
   siteUrl: 'https://www.gquino.com',
   repo: 'https://github.com/gquino/gquino.github.io.git',
+// new path prefix to work with the manual procedure
+//  pathPrefix:'',
   pathPrefix: 'https://www.gquino.com',
 //  pathPrefix: '/gquino.github.io',
   dateFromFormat: 'YYYY-MM-DD',
