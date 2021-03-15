@@ -1,9 +1,7 @@
 {
   "main.js": "render-page.js",
-  "main.js.map": "render-page.js.map",
-  "static/GustavoFooter.jpg": "static/GustavoFooter-e895a9896cc718b35e50dc8ca67c71da.jpg",
-  "static/codrops.png": "static/codrops-2d7b2a1fab472ef02babd2186b76f4d8.png",
-  "static/coffee.svg": "static/coffee-ab3d234dc206fcf5d5a3bb1a98da478a.svg",
-  "static/egghead.png": "static/egghead-ccdd804c87d12f9e024c9cc532e795a3.png",
-  "static/escher-160.png": "static/escher-160-a7849171a41ab899c40b8647b47f28db.png"
+  "static/GustavoFooter.jpg": "static/GustavoFooter-eda93865f541b7248171c232d8849f4a.jpg",
+  "static/coffee.svg": "static/coffee-585119de07f955fdcbe5e6eac4c2edea.svg",
+  "static/egghead.png": "static/egghead-4b2eb166c6aeb1885a07a2d177d6bd00.png",
+  "static/escher-160.png": "static/escher-160-93b03bb43d137977035cd451e3dc7093.png"
 }
