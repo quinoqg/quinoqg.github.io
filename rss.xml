@@ -1,117 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gustavo Quino]]></title><description><![CDATA[Personal website of Dr Gustavo Quino, researcher at the University of Oxford and musician.]]></description><link>https://www.gquino.com/https://www.gquino.com</link><image><url>https://www.gquino.com/https://www.gquino.com/logos/logo-48.png</url><title>Gustavo Quino</title><link>https://www.gquino.com/https://www.gquino.com</link></image><generator>Gustavo Quino</generator><lastBuildDate>Fri, 23 Dec 2022 15:32:27 GMT</lastBuildDate><atom:link href="https://www.gquino.com/https://www.gquino.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Design]]></title><description><![CDATA[I got a degree in Mechanical Engineering at Universidad Nacional de Ingeniería in Lima-Peru, where I started to work on a wide variety of design projects.
-Below you can see some of…]]></description><link>https://www.gquino.com/https://www.gquino.com/design/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/design/</guid><content:encoded>&lt;p&gt;I got a degree in &lt;strong&gt;Mechanical Engineering&lt;/strong&gt; at Universidad Nacional de Ingeniería in Lima-Peru, where I started to work on a wide variety of design projects.
-&lt;br /&gt;Below you can see some of my designs, mainly developed using &lt;strong&gt;SolidWorks&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;thermal-chamber-for-in-situ-testing&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#thermal-chamber-for-in-situ-testing&quot; aria-label=&quot;thermal chamber for in situ testing permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Thermal chamber for in-situ testing&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 850px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/90c5d6f300aa772eab82df19d27a6a64/281db/Des-Chamber.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 82.15962441314555%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGqtWRKIgr/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABEBESE//aAAgBAQABBQLq57DeGI6hLbBBmv/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAIBBQEAAAAAAAAAAAAAAAABQQIQESEyYf/aAAgBAQAGPwKDTtlVNMh+nR//xAAaEAEBAAMBAQAAAAAAAAAAAAABABEhUTFx/9oACAEBAAE/IUvT6J6jlmRcc3aokDHON//aAAwDAQACAAMAAAAQNx//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxBX/8QAHRABAAMAAQUAAAAAAAAAAAAAAQARMSFBUXGx8P/aAAgBAQABPxCtKitsoULm9IECOOH1R5SisaMS0o5QBfMDr3Y59z//2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Thermal Chamber&quot;
-        title=&quot;Thermal Chamber&quot;
-        src=&quot;/static/90c5d6f300aa772eab82df19d27a6a64/faddd/Des-Chamber.jpg&quot;
-        srcset=&quot;/static/90c5d6f300aa772eab82df19d27a6a64/6a7c0/Des-Chamber.jpg 213w,
-/static/90c5d6f300aa772eab82df19d27a6a64/b9721/Des-Chamber.jpg 425w,
-/static/90c5d6f300aa772eab82df19d27a6a64/faddd/Des-Chamber.jpg 850w,
-/static/90c5d6f300aa772eab82df19d27a6a64/d5412/Des-Chamber.jpg 1275w,
-/static/90c5d6f300aa772eab82df19d27a6a64/2b013/Des-Chamber.jpg 1700w,
-/static/90c5d6f300aa772eab82df19d27a6a64/281db/Des-Chamber.jpg 2176w&quot;
-        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;equipment-for-mechanical-testing-and-experimental-setups&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#equipment-for-mechanical-testing-and-experimental-setups&quot; aria-label=&quot;equipment for mechanical testing and experimental setups permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Equipment for mechanical testing and experimental setups&lt;/h2&gt;
-&lt;p&gt;Micro mechanical testing for:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Micro compact tension tests&lt;/li&gt;
-&lt;li&gt;In-situ Compression of sand grains
-&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 850px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/548302617138f64266e744ec22ef897f/c65fa/Des-Sand.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75.11737089201877%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC2klEQVQoz21SW1NSURQ+v86HHpppapqeeihKzUtjapFa4qTmDUPGSyGE4w3JGhRRFEQwBMPMUEEUDdQRReBcNucczo1zaCMT05TfrNnz7T37+9Zea20khoGsKOZyObieBoM0TUEuSRJc4xjghWzuClIuVyTSHyCnKbxw6o9Exnu6/KE9yEUpb4eRNE7SRa//gRAMW2Dhy/joij1wHM2/IptPyAoCjIKYZFia5SARRBGnaIwkWZ5H0gwDbTmWRdFU+vyMAilRzMLrOZEDNM3wPBRnOB4lKWgkQheKShHEBYpGzi8QluNEUfruW697Xj/Y1eae/3hwsJeInyeiviSegko+m0XTaZQA27u7m74NOsNSNMVm8kBgEkBn/Dv+u3duym7fmp3Uu92r1oX5WPwMpo3jOApAOHry0+19VV3dUVtDLznoZDpNkQAA5Ko9Ek5Rdqddq9da7bZLFE0QgBOynCB4g3u7hxGfwxXTaRzy+pHKsiH5i7UlFyABx3FIsXWwTPhCimHITKbQMIKi/OGjwNr6hV5LDA9GVb1NMtn90scqVefc/JzV6fxbLP3D4ynU6vqqVCiOB9RHfe8GGl42NNTee1Yhk9eVdrQ9KC9Frh1gQQz7OTM60lFTYVc0DTU2NLY0DyvftOs08kVz15a3yT6DRKNRk8nkcDjMZrPFYvF4PLCYgviSwGxjpqUauVPRUv+oSl73tHV4sHvT++HsqD95MnUQQUKhkEajMRgMRqNxYmJiamoKek1PT/vWvxE0abO4VhWmhR5DZdmTkhslD8vLFKMj/XjsU/h4/30AgUOGE2MYRhAEjudhWrghrwD/8cbWD/ec02z80tr8urazu0r5tn120hiK7A8FLtTR62sulp1CUY/XE97xGw3j6ubebqVubHUzrD+IqX9h2ksExQGKEfnAiRQGkhhxFXkCtzigll0e2/LKtn/LYVscU2k/K8YP+4K4NgF0id8+8/HsGZBNogAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Thermal Chamber&quot;
-        title=&quot;Thermal Chamber&quot;
-        src=&quot;/static/548302617138f64266e744ec22ef897f/ae694/Des-Sand.png&quot;
-        srcset=&quot;/static/548302617138f64266e744ec22ef897f/3cb16/Des-Sand.png 213w,
-/static/548302617138f64266e744ec22ef897f/2fbbf/Des-Sand.png 425w,
-/static/548302617138f64266e744ec22ef897f/ae694/Des-Sand.png 850w,
-/static/548302617138f64266e744ec22ef897f/3f20e/Des-Sand.png 1275w,
-/static/548302617138f64266e744ec22ef897f/c65fa/Des-Sand.png 1434w&quot;
-        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Low-cost electrodynamic shaker&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;nanosatellite-chasqui-i&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#nanosatellite-chasqui-i&quot; aria-label=&quot;nanosatellite chasqui i permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Nanosatellite Chasqui I&lt;/h2&gt;
-&lt;p&gt;The first Peruvian nanosatellite, built under the CubeSat standard. It was launched in 2014 during a ISS space walk.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 850px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdf6cffc200e311be1e9406334ca8678/aa440/Des-Chasqui.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75.11737089201877%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAB4aAAAeGgHZXKRrAAACsUlEQVQ4y32T60+SURzH+VN81atsXbaaW26ubNW8pcV0gqBGMhXvmprpCzUbs0xNTZdYbV10omZN2ySb4WXpBsvBkikESDq8IAt0gALfzkEf54PYd3y3M875fc7vch6O3+8HNRWzDmmf7//7B+bgQKHAPgKhPnrGFwQOFse6toY1YkaBgCMQqr9bNtg3N1j/MeDgyjgejwdLej1+LSzA5XKxAsy6Bbzp7MDDokI8aajHyEA/rH8sZM/LypqVIbOw2+34OT8Pw28jjPpFjH54h442KcIjT+FKcjwSsjJx7sxZCPk8DPb1wrC0iL29vWNQDtMXRkaTCU1SKWqqH6Cgrgzh1y6AXyGBqLQIYafDcDEqArkiIV49fwqv1xcaGNyT4YFeJPETwcvmISntNvg5YiSXiHCTdxn5Ei7E+al43fmMkOjPfxx4OFX//o1jX4aQIIxEeoEQd9JSUFxSjMKsdPBSryP2bjQEZRkY6nu7H3cSkGp31wOX2wPl+Bi4GdGIFV3F+RukZGEK7mUKcCsnGtySKIgrxfg2MnwykCl5Z2cHGzYbVLM/UFV1H3GCeFyKiQBPkAgBaQE3OwZ5tRKUV1dAPTkRiPN6vayncwikG06nE1arFXNzs+juaEdleQXiUpKQJuAiL1eI+q4WPKqTojRPgimlkvXEGCgL6HA6sLKygqnpafT0yCB70Y7GhgbkijNRQ6bcVP8YsuZGjI6OQD44BMXXcTi3t1mTZpXscDhgsVig1WqhUCjwsrsbnW2t6GptQXNtDd7LugIQtVqN5eVlaDRafPz0GXqDIXSG2+S29Y11mM1maLQazMzMoF8+ALlcHrhg4rsSKpUKOp0OJrMpkABt0ybpOwvITGqXvHx6wEYOrK6uwmg0Qk8+SwPJgJquqWkVtNdb9i243W5Wyf8AON0IbAIA3QgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chasqui I&quot;
-        title=&quot;Chasqui I&quot;
-        src=&quot;/static/bdf6cffc200e311be1e9406334ca8678/ae694/Des-Chasqui.png&quot;
-        srcset=&quot;/static/bdf6cffc200e311be1e9406334ca8678/3cb16/Des-Chasqui.png 213w,
-/static/bdf6cffc200e311be1e9406334ca8678/2fbbf/Des-Chasqui.png 425w,
-/static/bdf6cffc200e311be1e9406334ca8678/ae694/Des-Chasqui.png 850w,
-/static/bdf6cffc200e311be1e9406334ca8678/3f20e/Des-Chasqui.png 1275w,
-/static/bdf6cffc200e311be1e9406334ca8678/aa440/Des-Chasqui.png 1500w&quot;
-        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;div align=&quot;center&quot;&gt;
-&lt;iframe width=&quot;420&quot; height=&quot;315&quot; frameBorder=&quot;0&quot; 
-src=&quot;https://www.youtube.com/embed/DSqDoDqQVQo?&quot;&gt;
-&lt;/iframe&gt; 
-&lt;/div&gt;
-&lt;h2 id=&quot;industrial-engineering-projects&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#industrial-engineering-projects&quot; aria-label=&quot;industrial engineering projects permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Industrial Engineering Projects&lt;/h2&gt;
-&lt;p&gt;I have experience working on design projects for industry, mainly related to steel structures and mining industry. &lt;/p&gt;</content:encoded><author>me@gquino.com</author></item><item><title><![CDATA[Learning in Public]]></title><description><![CDATA[There's a lot I want to learn, and a lot I've learned and documented. Here's where I list both yyyyyy. (Here's the order I learned in.) To Learn: My current focus is Computer…]]></description><link>https://www.gquino.com/https://www.gquino.com/learn/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/learn/</guid><content:encoded>&lt;p&gt;There&apos;s a lot I want to learn, and a lot I&apos;ve learned and documented. Here&apos;s where I list both yyyyyy. (&lt;a href=&quot;/everything-i-know-as-a-software-developer-without-a-degree/&quot;&gt;Here&apos;s the order I learned in&lt;/a&gt;.)&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gustavo Quino]]></title><description><![CDATA[Personal website of Dr Gustavo Quino, researcher at the University of Oxford and musician.]]></description><link>https://www.gquino.com/https://www.gquino.com</link><image><url>https://www.gquino.com/https://www.gquino.com/logos/logo-48.png</url><title>Gustavo Quino</title><link>https://www.gquino.com/https://www.gquino.com</link></image><generator>Gustavo Quino</generator><lastBuildDate>Fri, 23 Dec 2022 15:48:33 GMT</lastBuildDate><atom:link href="https://www.gquino.com/https://www.gquino.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Learning in Public]]></title><description><![CDATA[There's a lot I want to learn, and a lot I've learned and documented. Here's where I list both yyyyyy. (Here's the order I learned in.) To Learn: My current focus is Computer…]]></description><link>https://www.gquino.com/https://www.gquino.com/learn/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/learn/</guid><content:encoded>&lt;p&gt;There&apos;s a lot I want to learn, and a lot I&apos;ve learned and documented. Here&apos;s where I list both yyyyyy. (&lt;a href=&quot;/everything-i-know-as-a-software-developer-without-a-degree/&quot;&gt;Here&apos;s the order I learned in&lt;/a&gt;.)&lt;/p&gt;
 &lt;h2 id=&quot;to-learn&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#to-learn&quot; aria-label=&quot;to learn permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;To Learn:&lt;/h2&gt;
 &lt;p&gt;My current focus is &lt;strong&gt;Computer Science&lt;/strong&gt; fundamentals and all things &lt;strong&gt;JavaScript&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&quot;computer-science&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#computer-science&quot; aria-label=&quot;computer science permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Computer Science&lt;/h3&gt;
@@ -548,18 +435,131 @@ You are invited to look at my &lt;a href=&quot;https://scholar.google.com/citati
 &lt;li&gt;Interviewed in the Egghead.io Podcast in Switching Careers and Learning in Public with Joel Hooks. &lt;a href=&quot;https://egghead.io/podcasts/switching-careers-and-learning-in-public-with-tania-rascia&quot;&gt;Source&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Wrote published articles for DigitalOcean, Envato Tuts+, SitePoint, LogRocket, Codrops, and Progress. &lt;a href=&quot;https://www.taniarascia.com/publications&quot;&gt;Source&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded><author>me@gquino.com</author></item><item><title><![CDATA[Teaching]]></title><description><![CDATA[Currently teaching Mechanics in the Department of Aeronautics, Imperial College.
-Previously, I have also taught several modules at the Engineering Science Department of the…]]></description><link>https://www.gquino.com/https://www.gquino.com/teaching/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/teaching/</guid><content:encoded>&lt;p&gt;Currently teaching Mechanics in the &lt;a href=&quot;https://www.imperial.ac.uk/aeronautics/&quot;&gt;Department of Aeronautics&lt;/a&gt;, Imperial College.
-Previously, I have also taught several modules at the &lt;a href=&quot;https://www.eng.ox.ac.uk/&quot;&gt;Engineering Science Department&lt;/a&gt; of the &lt;a href=&quot;http://www.ox.ac.uk/&quot;&gt;University of Oxford&lt;/a&gt;. &lt;/p&gt;
+Previously, I have also taught several modules at the Engineering Science Department, University of…]]></description><link>https://www.gquino.com/https://www.gquino.com/teaching/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/teaching/</guid><content:encoded>&lt;p&gt;Currently teaching Mechanics in the &lt;a href=&quot;https://www.imperial.ac.uk/aeronautics/&quot;&gt;Department of Aeronautics&lt;/a&gt;, Imperial College.
+Previously, I have also taught several modules at the &lt;a href=&quot;https://www.eng.ox.ac.uk/&quot;&gt;Engineering Science Department&lt;/a&gt;, &lt;a href=&quot;http://www.ox.ac.uk/&quot;&gt;University of Oxford&lt;/a&gt;. &lt;/p&gt;
 &lt;h2 id=&quot;mechanics-part-ii&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#mechanics-part-ii&quot; aria-label=&quot;mechanics part ii permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Mechanics Part II&lt;/h2&gt;
 &lt;p&gt;In this  module, students learn the basic fundamentals of dynamics. This module provides a basis for subsequent courses in structural mechanics and dynamics, and flight mechanics which are taught in later years. The subjects covered include particle representation (centres of mass and moments of inertia), energy and momentum methods, vibrations, and basic orbital mechanics. &lt;a href=&quot;https://www.imperial.ac.uk/aeronautics/study/ug/current-students/modules/?module=AERO40007&amp;#x26;year=22_23&quot;&gt;See module descriptor&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;b8-materials&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#b8-materials&quot; aria-label=&quot;b8 materials permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;B8 Materials&lt;/h2&gt;
 &lt;p&gt;In this module, students learn about 4 of the most relevant materials in engineering design: metals, ceramics, polymers and composites.&lt;/p&gt;
 &lt;h2 id=&quot;b5-solid-mechanics&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#b5-solid-mechanics&quot; aria-label=&quot;b5 solid mechanics permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;B5 Solid Mechanics&lt;/h2&gt;
-&lt;p&gt;In this module students study elasticity. In particular, I have led the practical demonstration and implemented the section of analysis of strains with digital image correlation analysis, used since 2016.&lt;/p&gt;
-&lt;h2 id=&quot;bx-introduction-to-fem&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#bx-introduction-to-fem&quot; aria-label=&quot;bx introduction to fem permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;BX Introduction to FEM&lt;/h2&gt;
+&lt;p&gt;In this module, students learn elasticity. In particular, I have led the practical demonstration and implemented the section of analysis of strains with digital image correlation analysis, used since 2016.&lt;/p&gt;
+&lt;h2 id=&quot;introduction-to-fem&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#introduction-to-fem&quot; aria-label=&quot;introduction to fem permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Introduction to FEM&lt;/h2&gt;
 &lt;p&gt;In the laboratory session students are given a design problem that they have to solve using the FEA module of SolidWorks.&lt;/p&gt;
 &lt;h2 id=&quot;p5-design&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#p5-design&quot; aria-label=&quot;p5 design permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;P5 Design&lt;/h2&gt;
-&lt;p&gt;In the laboratory session students learn the basics of engineering drawing standards using Solidworks.&lt;/p&gt;</content:encoded><author>me@gquino.com</author></item><item><title><![CDATA[New album: Andes donde andes]]></title><description><![CDATA[Everywhere you go, everywhere you wander, the Andes are with you. This is truly what I still feel and what what I felt when I left Peru 10 years ago. Through music, I have managed…]]></description><link>https://www.gquino.com/https://www.gquino.com/andes-donde-andes/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/andes-donde-andes/</guid><category><![CDATA[quena]]></category><category><![CDATA[Peru]]></category><category><![CDATA[huayno]]></category><category><![CDATA[scores]]></category><pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Everywhere you go, everywhere you wander, the Andes are with you. This is truly what I still feel and what what I felt when I left Peru 10 years ago. Through music, I have managed to share my culture with other but also to keep myself attached to  ... my country....&lt;/p&gt;
+&lt;p&gt;In the laboratory session students learn the basics of engineering drawing standards using Solidworks.&lt;/p&gt;</content:encoded><author>me@gquino.com</author></item><item><title><![CDATA[Design]]></title><description><![CDATA[I obtained my degree in Mechanical Engineering at Universidad Nacional de Ingeniería in Lima-Peru, where I started to work on a wide variety of design projects.
+Below you can see…]]></description><link>https://www.gquino.com/https://www.gquino.com/design/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/design/</guid><content:encoded>&lt;p&gt;I obtained my degree in &lt;strong&gt;Mechanical Engineering&lt;/strong&gt; at Universidad Nacional de Ingeniería in Lima-Peru, where I started to work on a wide variety of design projects.
+&lt;br /&gt;Below you can see some of my works, mainly developed using &lt;strong&gt;SolidWorks&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;thermal-chamber-for-in-situ-testing&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#thermal-chamber-for-in-situ-testing&quot; aria-label=&quot;thermal chamber for in situ testing permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Thermal chamber for in-situ testing&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 850px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/90c5d6f300aa772eab82df19d27a6a64/281db/Des-Chamber.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 82.15962441314555%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGqtWRKIgr/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABEBESE//aAAgBAQABBQLq57DeGI6hLbBBmv/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAIBBQEAAAAAAAAAAAAAAAABQQIQESEyYf/aAAgBAQAGPwKDTtlVNMh+nR//xAAaEAEBAAMBAQAAAAAAAAAAAAABABEhUTFx/9oACAEBAAE/IUvT6J6jlmRcc3aokDHON//aAAwDAQACAAMAAAAQNx//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxBX/8QAHRABAAMAAQUAAAAAAAAAAAAAAQARMSFBUXGx8P/aAAgBAQABPxCtKitsoULm9IECOOH1R5SisaMS0o5QBfMDr3Y59z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Thermal Chamber&quot;
+        title=&quot;Thermal Chamber&quot;
+        src=&quot;/static/90c5d6f300aa772eab82df19d27a6a64/faddd/Des-Chamber.jpg&quot;
+        srcset=&quot;/static/90c5d6f300aa772eab82df19d27a6a64/6a7c0/Des-Chamber.jpg 213w,
+/static/90c5d6f300aa772eab82df19d27a6a64/b9721/Des-Chamber.jpg 425w,
+/static/90c5d6f300aa772eab82df19d27a6a64/faddd/Des-Chamber.jpg 850w,
+/static/90c5d6f300aa772eab82df19d27a6a64/d5412/Des-Chamber.jpg 1275w,
+/static/90c5d6f300aa772eab82df19d27a6a64/2b013/Des-Chamber.jpg 1700w,
+/static/90c5d6f300aa772eab82df19d27a6a64/281db/Des-Chamber.jpg 2176w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;equipment-for-mechanical-testing-and-experimental-setups&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#equipment-for-mechanical-testing-and-experimental-setups&quot; aria-label=&quot;equipment for mechanical testing and experimental setups permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Equipment for mechanical testing and experimental setups&lt;/h2&gt;
+&lt;p&gt;Micro mechanical testing for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Micro compact tension tests&lt;/li&gt;
+&lt;li&gt;In-situ Compression of sand grains
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 850px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/548302617138f64266e744ec22ef897f/c65fa/Des-Sand.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.11737089201877%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC2klEQVQoz21SW1NSURQ+v86HHpppapqeeihKzUtjapFa4qTmDUPGSyGE4w3JGhRRFEQwBMPMUEEUDdQRReBcNucczo1zaCMT05TfrNnz7T37+9Zea20khoGsKOZyObieBoM0TUEuSRJc4xjghWzuClIuVyTSHyCnKbxw6o9Exnu6/KE9yEUpb4eRNE7SRa//gRAMW2Dhy/joij1wHM2/IptPyAoCjIKYZFia5SARRBGnaIwkWZ5H0gwDbTmWRdFU+vyMAilRzMLrOZEDNM3wPBRnOB4lKWgkQheKShHEBYpGzi8QluNEUfruW697Xj/Y1eae/3hwsJeInyeiviSegko+m0XTaZQA27u7m74NOsNSNMVm8kBgEkBn/Dv+u3duym7fmp3Uu92r1oX5WPwMpo3jOApAOHry0+19VV3dUVtDLznoZDpNkQAA5Ko9Ek5Rdqddq9da7bZLFE0QgBOynCB4g3u7hxGfwxXTaRzy+pHKsiH5i7UlFyABx3FIsXWwTPhCimHITKbQMIKi/OGjwNr6hV5LDA9GVb1NMtn90scqVefc/JzV6fxbLP3D4ynU6vqqVCiOB9RHfe8GGl42NNTee1Yhk9eVdrQ9KC9Frh1gQQz7OTM60lFTYVc0DTU2NLY0DyvftOs08kVz15a3yT6DRKNRk8nkcDjMZrPFYvF4PLCYgviSwGxjpqUauVPRUv+oSl73tHV4sHvT++HsqD95MnUQQUKhkEajMRgMRqNxYmJiamoKek1PT/vWvxE0abO4VhWmhR5DZdmTkhslD8vLFKMj/XjsU/h4/30AgUOGE2MYRhAEjudhWrghrwD/8cbWD/ec02z80tr8urazu0r5tn120hiK7A8FLtTR62sulp1CUY/XE97xGw3j6ubebqVubHUzrD+IqX9h2ksExQGKEfnAiRQGkhhxFXkCtzigll0e2/LKtn/LYVscU2k/K8YP+4K4NgF0id8+8/HsGZBNogAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Thermal Chamber&quot;
+        title=&quot;Thermal Chamber&quot;
+        src=&quot;/static/548302617138f64266e744ec22ef897f/ae694/Des-Sand.png&quot;
+        srcset=&quot;/static/548302617138f64266e744ec22ef897f/3cb16/Des-Sand.png 213w,
+/static/548302617138f64266e744ec22ef897f/2fbbf/Des-Sand.png 425w,
+/static/548302617138f64266e744ec22ef897f/ae694/Des-Sand.png 850w,
+/static/548302617138f64266e744ec22ef897f/3f20e/Des-Sand.png 1275w,
+/static/548302617138f64266e744ec22ef897f/c65fa/Des-Sand.png 1434w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Low-cost electrodynamic shaker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;nanosatellite-chasqui-i&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#nanosatellite-chasqui-i&quot; aria-label=&quot;nanosatellite chasqui i permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Nanosatellite Chasqui I&lt;/h2&gt;
+&lt;p&gt;The first Peruvian nanosatellite, built under the CubeSat standard. It was launched in 2014 during a ISS space walk.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 850px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bdf6cffc200e311be1e9406334ca8678/aa440/Des-Chasqui.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.11737089201877%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAB4aAAAeGgHZXKRrAAACsUlEQVQ4y32T60+SURzH+VN81atsXbaaW26ubNW8pcV0gqBGMhXvmprpCzUbs0xNTZdYbV10omZN2ySb4WXpBsvBkikESDq8IAt0gALfzkEf54PYd3y3M875fc7vch6O3+8HNRWzDmmf7//7B+bgQKHAPgKhPnrGFwQOFse6toY1YkaBgCMQqr9bNtg3N1j/MeDgyjgejwdLej1+LSzA5XKxAsy6Bbzp7MDDokI8aajHyEA/rH8sZM/LypqVIbOw2+34OT8Pw28jjPpFjH54h442KcIjT+FKcjwSsjJx7sxZCPk8DPb1wrC0iL29vWNQDtMXRkaTCU1SKWqqH6Cgrgzh1y6AXyGBqLQIYafDcDEqArkiIV49fwqv1xcaGNyT4YFeJPETwcvmISntNvg5YiSXiHCTdxn5Ei7E+al43fmMkOjPfxx4OFX//o1jX4aQIIxEeoEQd9JSUFxSjMKsdPBSryP2bjQEZRkY6nu7H3cSkGp31wOX2wPl+Bi4GdGIFV3F+RukZGEK7mUKcCsnGtySKIgrxfg2MnwykCl5Z2cHGzYbVLM/UFV1H3GCeFyKiQBPkAgBaQE3OwZ5tRKUV1dAPTkRiPN6vayncwikG06nE1arFXNzs+juaEdleQXiUpKQJuAiL1eI+q4WPKqTojRPgimlkvXEGCgL6HA6sLKygqnpafT0yCB70Y7GhgbkijNRQ6bcVP8YsuZGjI6OQD44BMXXcTi3t1mTZpXscDhgsVig1WqhUCjwsrsbnW2t6GptQXNtDd7LugIQtVqN5eVlaDRafPz0GXqDIXSG2+S29Y11mM1maLQazMzMoF8+ALlcHrhg4rsSKpUKOp0OJrMpkABt0ybpOwvITGqXvHx6wEYOrK6uwmg0Qk8+SwPJgJquqWkVtNdb9i243W5Wyf8AON0IbAIA3QgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chasqui I&quot;
+        title=&quot;Chasqui I&quot;
+        src=&quot;/static/bdf6cffc200e311be1e9406334ca8678/ae694/Des-Chasqui.png&quot;
+        srcset=&quot;/static/bdf6cffc200e311be1e9406334ca8678/3cb16/Des-Chasqui.png 213w,
+/static/bdf6cffc200e311be1e9406334ca8678/2fbbf/Des-Chasqui.png 425w,
+/static/bdf6cffc200e311be1e9406334ca8678/ae694/Des-Chasqui.png 850w,
+/static/bdf6cffc200e311be1e9406334ca8678/3f20e/Des-Chasqui.png 1275w,
+/static/bdf6cffc200e311be1e9406334ca8678/aa440/Des-Chasqui.png 1500w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; frameBorder=&quot;0&quot; 
+src=&quot;https://www.youtube.com/embed/DSqDoDqQVQo?&quot;&gt;
+&lt;/iframe&gt; 
+&lt;/div&gt;
+&lt;h2 id=&quot;industrial-engineering-projects&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#industrial-engineering-projects&quot; aria-label=&quot;industrial engineering projects permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Industrial Engineering Projects&lt;/h2&gt;
+&lt;p&gt;I have experience working on design projects for industry, mainly related to steel structures and mining industry. &lt;/p&gt;</content:encoded><author>me@gquino.com</author></item><item><title><![CDATA[New album: Andes donde andes]]></title><description><![CDATA[Everywhere you go, everywhere you wander, the Andes are with you. This is truly what I still feel and what what I felt when I left Peru 10 years ago. Through music, I have managed…]]></description><link>https://www.gquino.com/https://www.gquino.com/andes-donde-andes/</link><guid isPermaLink="false">https://www.gquino.com/https://www.gquino.com/andes-donde-andes/</guid><category><![CDATA[quena]]></category><category><![CDATA[Peru]]></category><category><![CDATA[huayno]]></category><category><![CDATA[scores]]></category><pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Everywhere you go, everywhere you wander, the Andes are with you. This is truly what I still feel and what what I felt when I left Peru 10 years ago. Through music, I have managed to share my culture with other but also to keep myself attached to  ... my country....&lt;/p&gt;
 &lt;p&gt;Por donde andes, por donde vayas, los Andes van contigo, podrás estar lejos, pero los Andes no salen de tu alma. Identificado como andino, he tratado -y creo haber logrado- mantener mi identidad a través de la música. Aún más, interpretar música andina con la quena, me ha permitido compartir la riqueza musical de nuestra cultura con personas de todo el mundo. &lt;/p&gt;
 &lt;div align=&quot;center&quot;&gt;
 &lt;iframe src=&quot;https://open.spotify.com/embed?uri=spotify%3Aalbum%3A31q4zj0h2HQ6YQ0tV74QPX&quot; width=&quot;300&quot; height=&quot;380&quot; frameborder=&quot;0&quot; style=&quot;border-radius: 12px;&quot;allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
