@@ -1,0 +1,49 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Academia - Category - Dr. Gustavo Quino - Lecturer in Structural Analysis and Materials</title>
+        <link>https://gquino.com/categories/academia/</link>
+        <description>Academia - Category - Dr. Gustavo Quino - Lecturer in Structural Analysis and Materials</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@gquino.com (Gustavo Quino)</managingEditor>
+            <webMaster>me@gquino.com (Gustavo Quino)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 12 Apr 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://gquino.com/categories/academia/" rel="self" type="application/rss+xml" /><item>
+    <title>Teaching Mechanics at Imperial College London</title>
+    <link>https://gquino.com/theme-academia-teaching-mechanics/</link>
+    <pubDate>Wed, 12 Apr 2023 21:29:01 &#43;0800</pubDate>
+    <author>Gustavo</author>
+    <guid>https://gquino.com/theme-academia-teaching-mechanics/</guid>
+    <description><![CDATA[Este año académico logré conseguir mi primera plaza como profesor universitario. Soy ahora Lecturer (Assistant professor) en análisis estructural y materiales, en el Departamento de Aeronáutica de Imperial College London. Los años académicos en Imperial College están divididos en 3 periodos de 10 semanas cada uno. El primer periodo, el de Otoño, empieza en Octubre y termina en Diciembre. En este periodo dicté el curso de Mecánica para estudiantes de primer año de Ingeniería Aeronáutica.]]></description>
+</item>
+<item>
+    <title>Impresión 3D de una quena</title>
+    <link>https://gquino.com/theme-arts-3d-printed-quena/</link>
+    <pubDate>Tue, 31 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Gustavo</author>
+    <guid>https://gquino.com/theme-arts-3d-printed-quena/</guid>
+    <description><![CDATA[Introducción Desarrollé este proyecto con el ánimo de combinar dos de mis aficiones: la música y la tecnología. Soy ingeniero investigador en materiales aeroespaciales y llevo aproximadamente 15 años tocando la quena, la flauta andina. Desde casi 10 años empecé a comprar o mandar a hacer quenas a luthieres profesionales, maestros en el arte de la construcción de quenas. Entre los materiales más empleados están el bambú, que crece en diversas partes de América, y otras maderas diversas como la jacarandá, el ébano, etc.]]></description>
+</item>
+<item>
+    <title>Enseñando Ciencia de Materiales en la Universidad de Oxford</title>
+    <link>https://gquino.com/theme-academia-teaching-materials/</link>
+    <pubDate>Wed, 17 Jul 2019 21:29:01 &#43;0800</pubDate>
+    <author>Gustavo</author>
+    <guid>https://gquino.com/theme-academia-teaching-materials/</guid>
+    <description><![CDATA[Introducción Empezaré este artículo siendo brutalmente honesto con todos. Ciencia de materiales fue uno de los cursos que pasé con menor nota durante el pregrado. Eso no significa que no me guste ni que no sepa nada, creo que mi baja nota fue el resultado de una mezcla de exámenes difíciles y conceptos no muy sencillos de digerir. Recuerdo que el profesor decía &ldquo;creo que este curso deberia estar más adelante en la carrera&rdquo;.]]></description>
+</item>
+<item>
+    <title>Creating a batch file (.bat) to run an Abaqus analysis</title>
+    <link>https://gquino.com/theme-academia-abaqus-batch/</link>
+    <pubDate>Tue, 21 May 2019 10:29:41 &#43;0800</pubDate>
+    <author>Gustavo</author>
+    <guid>https://gquino.com/theme-academia-abaqus-batch/</guid>
+    <description><![CDATA[1 Introduction It not just about being geeky that we use command line (CMD in Windows) to run our Abaqus jobs. It is actually a matter of convenience. Being able to run our Abaqus simulations from a command line means that the process can actually be automated by using batch scripts.
+I find them extremely useful to save some time. It can be particularly useful when using subroutines (e.g. VUMAT or UMATs) where command lines can be long, or when analysing the sensitivity of a model to certain material parameters.]]></description>
+</item>
+<item>
+    <title>Mi historia, ciencias y mentoría</title>
+    <link>https://gquino.com/theme-academia-mentoria/</link>
+    <pubDate>Fri, 10 May 2019 10:29:41 &#43;0800</pubDate>
+    <author>Gustavo</author>
+    <guid>https://gquino.com/theme-academia-mentoria/</guid>
+    <description><![CDATA[Mi historia De pequeño los únicos profesionales que conocí fueron profesores de escuela y algunos doctores que visité alguna vez por motivos de salud. Mamá, comerciante, me enseñó que el trabajo duro me llevaría a algún lugar. Papá no me enseñó los principios de la física, pero de él aprendí muchas habilidades prácticas de su trabajo de albañil, de construir, de usar la creatividad para encontrar soluciones simples, aunque no necesariamente obvias.]]></description>
+</item>
+</channel>
+</rss>

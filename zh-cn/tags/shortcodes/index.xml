@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>shortcodes - 标签 - Dr. Gustavo Quino - Lecturer in Structural Analysis and Materials</title>
+        <link>https://gquino.com/zh-cn/tags/shortcodes/</link>
+        <description>shortcodes - 标签 - Dr. Gustavo Quino - Lecturer in Structural Analysis and Materials</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>me@gquino.com (Gustavo Quino)</managingEditor>
+            <webMaster>me@gquino.com (Gustavo Quino)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 03 Mar 2020 10:29:59 &#43;0800</lastBuildDate><atom:link href="https://gquino.com/zh-cn/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
+    <title>主题文档 - typeit Shortcode</title>
+    <link>https://gquino.com/zh-cn/theme-academia-abaqus-batch/</link>
+    <pubDate>Tue, 03 Mar 2020 10:29:59 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://gquino.com/zh-cn/theme-academia-abaqus-batch/</guid>
+    <description><![CDATA[<p><code>typeit</code> shortcode 基于 <a href="https://typeitjs.com/" target="_blank" rel="noopener noreffer ">TypeIt</a> 库提供了打字动画.</p>]]></description>
+</item>
+<item>
+    <title>主题文档 - typeit Shortcode</title>
+    <link>https://gquino.com/zh-cn/theme-academia-mentoria/</link>
+    <pubDate>Tue, 03 Mar 2020 10:29:59 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://gquino.com/zh-cn/theme-academia-mentoria/</guid>
+    <description><![CDATA[<p><code>typeit</code> shortcode 基于 <a href="https://typeitjs.com/" target="_blank" rel="noopener noreffer ">TypeIt</a> 库提供了打字动画.</p>]]></description>
+</item>
+</channel>
+</rss>
