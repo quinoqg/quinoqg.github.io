@@ -10,6 +10,9 @@ lightgallery: true
 math:
   enable: true
 
+toc:
+  auto: false
+  
 ---
 
 I have been part and started up various music projects in several stages of my live and places.
