@@ -7,6 +7,9 @@ images: ["/Research.png"]
 
 lightgallery: true
 
+toc:
+  auto: false
+  
 math:
   enable: true
 
