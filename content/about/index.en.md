@@ -11,7 +11,7 @@ math:
   enable: true
 ---
 
-I am Gustavo Quino [(CV)](../files/CV-GustavoQuino.pdf), lecturer at [Imperial College London](https://www.imperial.ac.uk/aeronautics/). Prior to joining Imperial College, I was senior researcher at the [Bristol Composites Institute](http://www.bristol.ac.uk/composites/) and postdoctoral research associate at the [University of Oxford](http://www.ox.ac.uk/), where I obtained my PhD degree. My research interests include: mechanical characterisation, polymers, composites, compression of composites, experimental mechanics, impact, digital image correlation, instrumentation, and micromechanical modelling.
+I am Gustavo Quino [(CV)](../files/CV-GustavoQuino.pdf), Lecturer (Assistant Professor) at [Imperial College London](https://www.imperial.ac.uk/aeronautics/). Prior to joining Imperial College, I was senior researcher at the [Bristol Composites Institute](http://www.bristol.ac.uk/composites/) and postdoctoral research associate at the [University of Oxford](http://www.ox.ac.uk/), where I obtained my PhD degree. My research interests include: mechanical characterisation, polymers, composites, compression of composites, experimental mechanics, impact, digital image correlation, instrumentation, and micromechanical modelling.
 
 I am also a musician!
 
