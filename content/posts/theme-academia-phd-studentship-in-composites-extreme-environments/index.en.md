@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Teaching Mechanics at Imperial College London"
+title: "PhD Studentship: Composite materials in extreme environments"
 date: 2023-05-22T21:45:01+08:00
 lastmod: 2023-05-22T21:45:01+08:00
 draft: false
