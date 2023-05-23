@@ -12,7 +12,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 
-tags: ["teaching"]
+tags: ["phd", "studentship", "vacancy"]
 categories: ["Academia"]
 
 lightgallery: true
