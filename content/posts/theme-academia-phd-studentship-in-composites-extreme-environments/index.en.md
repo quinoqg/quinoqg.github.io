@@ -10,7 +10,7 @@ description: "PhD Studentship in composite materials for extreme environments."
 images: []
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "featured-image.png"
 
 tags: ["phd", "studentship", "vacancy"]
 categories: ["Academia"]
