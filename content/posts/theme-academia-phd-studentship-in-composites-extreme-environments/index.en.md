@@ -36,6 +36,7 @@ Applicants should have a strong background in solid mechanics, and knowledge of 
 Imperial College is consistently ranked as one of top universities in the world and top 3 universities within the UK. In 2019/20 Imperial ranked 9th in the world in the QS and 10th in the world in the THE rankings. It has been ranked as the most innovative university in Europe. Imperial staff and alumni include 15 Nobel laureates, 2 Fields Medalists, 70 Fellows of the Royal Society, 82 Fellows of the Royal Academy of Engineering and 78 Fellows of the Academy of Medical Sciences. There will also be collaboration opportunities with colleagues from the University of Oxford and the University of Bristol.
 
 This studentship is available for students eligible for home fees. Information on fee status can be found at https://www.imperial.ac.uk/study/pg/fees-and-funding/tuition-fees/fee-status/
+
 The studentship is for 3.5 years and will provide full coverage of tuition fees and an annual tax-free stipend of £19,668.
 Information on fee status - https://www.imperial.ac.uk/study/pg/fees-and-funding/tuition-fees/fee-status/
 
