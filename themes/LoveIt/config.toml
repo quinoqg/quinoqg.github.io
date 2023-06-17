@@ -562,11 +562,12 @@
 
   # Analytics config
   # 网站分析配置
+  # changed to true by GQ
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "G-ZHCCFBNW5Y"
       # whether to anonymize IP
       # 是否匿名化用户 IP
       anonymizeIP = true
