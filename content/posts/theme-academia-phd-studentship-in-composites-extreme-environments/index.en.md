@@ -1,12 +1,12 @@
 ---
 weight: 1
-title: "PhD Studentship: Composite materials in extreme environments"
+title: "Fully funded PhD Studentship: Composite materials in extreme environments"
 date: 2023-05-22T21:45:01+08:00
 lastmod: 2023-05-22T21:45:01+08:00
 draft: false
 author: "Gustavo"
 authorLink: "https://gquino.com"
-description: "PhD Studentship in composite materials for extreme environments."
+description: "Fully funded PhD Studentship in composite materials for extreme environments."
 images: []
 resources:
 - name: "featured-image"
@@ -35,9 +35,8 @@ Applicants should have a strong background in solid mechanics, and knowledge of 
 
 Imperial College is consistently ranked as one of top universities in the world and top 3 universities within the UK. In 2019/20 Imperial ranked 9th in the world in the QS and 10th in the world in the THE rankings. It has been ranked as the most innovative university in Europe. Imperial staff and alumni include 15 Nobel laureates, 2 Fields Medalists, 70 Fellows of the Royal Society, 82 Fellows of the Royal Academy of Engineering and 78 Fellows of the Academy of Medical Sciences. There will also be collaboration opportunities with colleagues from the University of Oxford and the University of Bristol.
 
-This studentship is available for students eligible for home fees. Information on fee status can be found at https://www.imperial.ac.uk/study/pg/fees-and-funding/tuition-fees/fee-status/
+The studentship is for 3.5 years and will provide full coverage of tuition fees and an annual tax-free stipend of approximately £19,668 for Home, EU and International students.
 
-The studentship is for 3.5 years and will provide full coverage of tuition fees and an annual tax-free stipend of £19,668.
 Information on fee status - https://www.imperial.ac.uk/study/pg/fees-and-funding/tuition-fees/fee-status/
 
 Start date: October 2023, with flexibility.
@@ -45,6 +44,7 @@ Start date: October 2023, with flexibility.
 For informal enquiries, you can contact Dr Gustavo Quino (g.quino-quispe@imperial.ac.uk). 
 
 To apply https://www.imperial.ac.uk/study/pg/apply/how-to-apply/ ). 
+Official advert (AE0035_v2): https://www.imperial.ac.uk/aeronautics/study/phd/phd-opportunities-and-funding/
 
 For queries regarding the application process, please contact Ms Lisa Kelly l.kelly@imperial.ac.uk  or phone on +44 (0)20 7594 5056.
 Imperial College is committed to equality and valuing diversity. We are an Athena Silver SWAN Award winner and a Stonewall Diversity Champion.
