@@ -46,6 +46,10 @@ I like to be challenged by complex experimental setups. I have designed and buil
 ## Publications
 ### Journal Papers
 
+[Xu, Y., Quino, G., Ramakrishnan, K. R., & Pellegrino, A. (2023). Effects of build orientation and strain rate on the tensile-shear behaviour of polyamide-12 manufactured via laser powder bed fusion. Materials & Design, 232, 112162.](https://doi.org/10.1016/j.matdes.2023.112162)
+
+[Quino, G., Gargiuli, J., Pimenta, S., Hamerton, I., Robinson, P., & Trask, R. S. (2023). Experimental characterisation of the dilation angle of polymers. Polymer Testing, 125, 108137. ](https://doi.org/10.1016/j.polymertesting.2023.108137)
+
 [D.E. Sommer, D. Thomson, O. Falcó, G. Quino, H. Cui, N. Petrinic, Damage modelling of carbon fibre composite crush tubes: Numerical simulation and experimental validation of drop weight impact, Compos. Part A Appl. Sci. Manuf. (2022) 107033.](https://doi.org/10.1016/J.COMPOSITESA.2022.107033) 
 
 [G. Quino*, Y. Chen, K. R. Ramakrishnan, F. Martínez-Hergueta, G. Zumpano, A. Pellegrino, N. Petrinic, Speckle patterns for DIC in challenging scenarios: rapid application and impact endurance,” Meas. Sci. Technol., Jan. 2021.](https://iopscience.iop.org/article/10.1088/1361-6501/abaae8)
