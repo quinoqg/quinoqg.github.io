@@ -79,4 +79,4 @@ src="https://www.youtube.com/embed/Bu-6HXPp22k?">
 </div>
 
 ## Folkuni
-[Folkuni](https://www.facebook.com/folkunioficial/) is the Folkloric Cultural Centre of the Universidad Nacional de Ingeniería (Lima, Perú). I was part of the Andean Music Division, where I was also General Secretary for 2 years. Folkuni's mission is to promote national identity by divulging the various folkloric expressions of Peru.
+[Folkuni](https://www.facebook.com/folkunioficial/) is the Folkloric Cultural Centre of the Universidad Nacional de Ingeniería (Lima, Perú). I was part of the Andean Music Division of this institution, where I was also General Secretary for 2 years. Folkuni's primary objective is to foster a sense of national identity by showcasing the diverse folkloric manifestations of Peru.
