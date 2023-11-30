@@ -46,9 +46,11 @@ I like to be challenged by complex experimental setups. I have designed and buil
 ## Publications
 ### Journal Papers
 
-[Xu, Y., Quino, G., Ramakrishnan, K. R., & Pellegrino, A. (2023). Effects of build orientation and strain rate on the tensile-shear behaviour of polyamide-12 manufactured via laser powder bed fusion. Materials & Design, 232, 112162.](https://doi.org/10.1016/j.matdes.2023.112162)
+[Xu Y, Quino G, Ramakrishnan KR, Pellegrino A. Effects of build orientation and strain rate on the tensile-shear behaviour of polyamide-12 manufactured via laser powder bed fusion. Mater Des 2023;232:112162.](https://doi.org/10.1016/j.matdes.2023.112162)
 
-[Quino, G., Gargiuli, J., Pimenta, S., Hamerton, I., Robinson, P., & Trask, R. S. (2023). Experimental characterisation of the dilation angle of polymers. Polymer Testing, 125, 108137. ](https://doi.org/10.1016/j.polymertesting.2023.108137)
+[Quino G, Gargiuli J, Pimenta S, Hamerton I, Robinson P, Trask RS. Experimental characterisation of the dilation angle of polymers. Polym Test 2023;125:108137. ](https://doi.org/10.1016/j.polymertesting.2023.108137)
+
+[Gargiuli JF, Quino G, Board R, Griffith JC, Shaffer MSP, Trask RS, et al. Examining the Quasi-Static Uniaxial Compressive Behaviour of Commercial High-Performance Epoxy Matrices. Polymers (Basel) 2023;15:4022.] (https://doi.org/10.3390/polym15194022)
 
 [D.E. Sommer, D. Thomson, O. Falcó, G. Quino, H. Cui, N. Petrinic, Damage modelling of carbon fibre composite crush tubes: Numerical simulation and experimental validation of drop weight impact, Compos. Part A Appl. Sci. Manuf. (2022) 107033.](https://doi.org/10.1016/J.COMPOSITESA.2022.107033) 
 
@@ -67,14 +69,26 @@ I like to be challenged by complex experimental setups. I have designed and buil
 [G. Quino, J. El Yagoubi, and G. Lubineau*, “Characterizing the toughness of an epoxy resin after wet aging using compact tension specimens with non-uniform moisture content,” Polym. Degrad. Stab., vol. 109, pp. 319– 326, Aug. 2014.](https://www.sciencedirect.com/science/article/pii/S014139101400295X)
 
 ### Conferences
-[D.E. Sommer, D. Thomson, O. Falcó, G. Quino, H. Cui, N. Petrinic, High-fidelity damage modelling of CFRP laminates for impact and crashworthiness applications – dynamic tube crushing simulations, EPJ Web Conf. 250 (2021) 02014.](https://doi.org/10.1051/epjconf/202125002014)
 
-[D. Thomson, D.E. Sommer, O. Falcó, G. Quino, H. Cui, B. Erice, N. Petrinic, Numerical prediction of the ballistic performance of hygrothermally aged CFRP laminates using a multi-scale modelling approach, EPJ Web Conf. 250 (2021) 03008.](https://doi.org/10.1051/epjconf/202125003008.)
+**G. Quino**, J. Gargiuli, S. Pimenta, I. Hamerton, P. Robinson, R.S. Trask, Experimental characterisation of the dilation angle of polymers, in: 23rd International Conference on Composite Materials (ICCM23), Belfast, 2023.
 
-K.R. Ramakrishnan, G. Quino, Y. Chen, J. Hoffmann, N. Petrinic, Characterization of rate dependent compressive behaviour of epoxy resin and fibre reinforced composites, in: SEM Annu. Conf. Exp. Appl. Mech., 2021.
+B. Zhang, **G. Quino**, P. Robinson, R.S. Trask, Pure shear and compression-shear characterisation of polymer matrix for carbon fibre composites, in: 23rd International Conference on Composite Materials (ICCM23), Belfast, 2023.
 
-[K.R. Ramakrishnan, G. Quino, J. Hoffmann, N. Petrinic, High Strain Rate Characterization and Impact Analysis of Fiber Reinforced Composites, in: Dyn. Behav. Mater. Vol. 1, Conf. Proc. Soc. Exp. Mech. Ser., Springer, Cham, 2021: pp. 95–99.](https://doi.org/10.1007/978-3-030-59947-8_17.)
+[**G. Quino**, K.R. Ramakrishnan, The “tattoo” speckle pattern: fabrication and application, in: 20th International Conference on Experimental Mechanics, Porto, 2023: pp. 905–906.](https://symplectic.imperial.ac.uk/viewobject.html?cid=1&id=1343527)
 
+**G. Quino**, M. Patni, S. Pimenta, P. Robinson, R.S. Trask, Plastic Poisson’s ratio of polymers: mechanical characterisation and its relevance in micromechanical modelling of composites, in: 18th Eur. Mech. Mater. Conf., Oxford, 2022.
+
+**G. Quino**, P. Robinson, R.S. Trask, Design of a bending experiment for mechanical characterisation of pultruded rods under compression, 20th Eur. Conf. Compos. Mater. ECCM20. (2022).
+
+L.R. Pickard, **G. Quino**, G. Allegri, M.R. Wisnom, R.S. Trask, Manufacturing of novel hierarchical hybridised composites, 5th Int. Symp. Autom. Compos. Manuf. (2022).
+
+[D.E. Sommer, D. Thomson, O. Falcó, **G. Quino**, H. Cui, N. Petrinic, High-fidelity damage modelling of CFRP laminates for impact and crashworthiness applications – dynamic tube crushing simulations, EPJ Web Conf. 250 (2021) 02014.](https://doi.org/10.1051/epjconf/202125002014)
+
+[D. Thomson, D.E. Sommer, O. Falcó, **G. Quino**, H. Cui, B. Erice, N. Petrinic, Numerical prediction of the ballistic performance of hygrothermally aged CFRP laminates using a multi-scale modelling approach, EPJ Web Conf. 250 (2021) 03008.](https://doi.org/10.1051/epjconf/202125003008.)
+
+K.R. Ramakrishnan, **G. Quino**, Y. Chen, J. Hoffmann, N. Petrinic, Characterization of rate dependent compressive behaviour of epoxy resin and fibre reinforced composites, in: SEM Annu. Conf. Exp. Appl. Mech., 2021.
+
+[K.R. Ramakrishnan, **G. Quino**, J. Hoffmann, N. Petrinic, High Strain Rate Characterization and Impact Analysis of Fiber Reinforced Composites, in: Dyn. Behav. Mater. Vol. 1, Conf. Proc. Soc. Exp. Mech. Ser., Springer, Cham, 2021: pp. 95–99.](https://doi.org/10.1007/978-3-030-59947-8_17.)
 
 **G. Quino**, A. Pellegrino, N. Petrinic. "Composites in extreme environments: Effects of high strain rate, humidity and temperature", in International Conference on Defence Technology, 26-29 October 2020. Nanjing, China.
 
