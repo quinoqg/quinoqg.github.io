@@ -46,13 +46,15 @@ I like to be challenged by complex experimental setups. I have designed and buil
 ## Publications
 ### Journal Papers
 
-[Xu Y, Quino G, Ramakrishnan KR, Pellegrino A. Effects of build orientation and strain rate on the tensile-shear behaviour of polyamide-12 manufactured via laser powder bed fusion. Mater Des 2023;232:112162.](https://doi.org/10.1016/j.matdes.2023.112162)
+[Y. Chen, G. Quino, and A. Pellegrino*, “A comprehensive investigation on the temperature and strain rate dependent mechanical response of three polymeric syntactic foams for thermoforming and energy absorption applications,” Polym Test, p. 108287, Dec. 2023.](https://doi.org/10.1016/J.POLYMERTESTING.2023.108287)
 
-[Quino G, Gargiuli J, Pimenta S, Hamerton I, Robinson P, Trask RS. Experimental characterisation of the dilation angle of polymers. Polym Test 2023;125:108137. ](https://doi.org/10.1016/j.polymertesting.2023.108137)
+[Y. Xu*, G. Quino, K. R. Ramakrishnan, and A. Pellegrino, “Effects of build orientation and strain rate on the tensile-shear behaviour of polyamide-12 manufactured via laser powder bed fusion,” Mater Des, vol. 232, p. 112162, Aug. 2023.](https://doi.org/10.1016/j.matdes.2023.112162)
 
-[Gargiuli JF, Quino G, Board R, Griffith JC, Shaffer MSP, Trask RS, et al. Examining the Quasi-Static Uniaxial Compressive Behaviour of Commercial High-Performance Epoxy Matrices. Polymers (Basel) 2023;15:4022.] (https://doi.org/10.3390/polym15194022)
+[G. Quino*, J. Gargiuli, S. Pimenta, I. Hamerton, P. Robinson, and R. S. Trask, “Experimental characterisation of the dilation angle of polymers,” Polym Test, vol. 125, p. 108137, Aug. 2023.](https://doi.org/10.1016/j.polymertesting.2023.108137)
 
-[D.E. Sommer, D. Thomson, O. Falcó, G. Quino, H. Cui, N. Petrinic, Damage modelling of carbon fibre composite crush tubes: Numerical simulation and experimental validation of drop weight impact, Compos. Part A Appl. Sci. Manuf. (2022) 107033.](https://doi.org/10.1016/J.COMPOSITESA.2022.107033) 
+[JF. Gargiuli, G. Quino, et al. “Examining the Quasi-Static Uniaxial Compressive Behaviour of Commercial High-Performance Epoxy Matrices,” Polymers (Basel), vol. 15, no. 19, p. 4022.](https://doi.org/10.3390/polym15194022)
+
+[D.E. Sommer, D. Thomson*, O. Falcó, G. Quino, H. Cui, N. Petrinic, Damage modelling of carbon fibre composite crush tubes: Numerical simulation and experimental validation of drop weight impact, Compos. Part A Appl. Sci. Manuf. (2022) 107033.](https://doi.org/10.1016/J.COMPOSITESA.2022.107033) 
 
 [G. Quino*, Y. Chen, K. R. Ramakrishnan, F. Martínez-Hergueta, G. Zumpano, A. Pellegrino, N. Petrinic, Speckle patterns for DIC in challenging scenarios: rapid application and impact endurance,” Meas. Sci. Technol., Jan. 2021.](https://iopscience.iop.org/article/10.1088/1361-6501/abaae8)
 
