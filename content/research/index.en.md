@@ -46,6 +46,8 @@ I like to be challenged by complex experimental setups. I have designed and buil
 ## Publications
 ### Journal Papers
 
+[D. Thomson, D. E. Sommer*, G. Quino, O. Falcó, and N. Petrinic, “Influence of fatigue damage on the impact performance of toughened-interleave carbon fibre epoxy composite laminates,” Compos Struct, p. 118345, Jul. 2024.](https://doi.org/10.1016/J.COMPSTRUCT.2024.118345)
+
 [Y. Chen, G. Quino, and A. Pellegrino*, “A comprehensive investigation on the temperature and strain rate dependent mechanical response of three polymeric syntactic foams for thermoforming and energy absorption applications,” Polym Test, p. 108287, Dec. 2023.](https://doi.org/10.1016/J.POLYMERTESTING.2023.108287)
 
 [Y. Xu*, G. Quino, K. R. Ramakrishnan, and A. Pellegrino, “Effects of build orientation and strain rate on the tensile-shear behaviour of polyamide-12 manufactured via laser powder bed fusion,” Mater Des, vol. 232, p. 112162, Aug. 2023.](https://doi.org/10.1016/j.matdes.2023.112162)
