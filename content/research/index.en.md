@@ -72,6 +72,10 @@ I like to be challenged by complex experimental setups. I have designed and buil
 
 [G. Quino, J. El Yagoubi, and G. Lubineau*, “Characterizing the toughness of an epoxy resin after wet aging using compact tension specimens with non-uniform moisture content,” Polym. Degrad. Stab., vol. 109, pp. 319– 326, Aug. 2014.](https://www.sciencedirect.com/science/article/pii/S014139101400295X)
 
+### Book Chapters
+**G. Quino**, “Impact damage analysis of composite structures using digital image correlation,” in Non-destructive Testing of Impact Damage in Fiber-Reinforced Polymer Composites, Matthew Deans, 2024, pp. 69–86. doi: 10.1016/B978-0-443-14120-1.00003-0.
+
+
 ### Conferences
 
 **G. Quino**, J. Gargiuli, S. Pimenta, I. Hamerton, P. Robinson, R.S. Trask, Experimental characterisation of the dilation angle of polymers, in: 23rd International Conference on Composite Materials (ICCM23), Belfast, 2023.
