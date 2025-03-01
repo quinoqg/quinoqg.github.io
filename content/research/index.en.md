@@ -46,6 +46,8 @@ I like to be challenged by complex experimental setups. I have designed and buil
 ## Publications
 ### Journal Papers
 
+[D. Thomson, et al., A review of the effect of loading rate on the mechanical properties of unidirectional carbon fibre reinforced polymer composites,” Compos Part A Appl Sci Manuf, p. 108773, Feb. 2025.](https://doi.org/10.1016/J.COMPOSITESA.2025.108773)
+
 [D. Thomson, D. E. Sommer*, G. Quino, O. Falcó, and N. Petrinic, “Influence of fatigue damage on the impact performance of toughened-interleave carbon fibre epoxy composite laminates,” Compos Struct, p. 118345, Jul. 2024.](https://doi.org/10.1016/J.COMPSTRUCT.2024.118345)
 
 [Y. Chen, G. Quino, and A. Pellegrino*, “A comprehensive investigation on the temperature and strain rate dependent mechanical response of three polymeric syntactic foams for thermoforming and energy absorption applications,” Polym Test, p. 108287, Dec. 2023.](https://doi.org/10.1016/J.POLYMERTESTING.2023.108287)
