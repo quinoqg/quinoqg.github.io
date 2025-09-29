@@ -45,6 +45,9 @@ I like to be challenged by complex experimental setups. I have designed and buil
 
 ## Publications
 ### Journal Papers
+[G. Quino and K. R. Ramakrishnan, ‘Temperature effect on dynamic translaminar fracture of thermoplastic composites’, Int J Mech Sci, vol. 304, p. 110683, Oct. 2025.](https://doi.org/10.1016/j.ijmecsci.2025.110683)
+
+[C. Zhao, G. Quino, B. Zhang, P. Robinson, and R. S. Trask, ‘The cradle test: A new experiment to characterise the compression response of pultruded rods’, Compos Part A Appl Sci Manuf, vol. 197, p. 109054, Oct. 2025.][https://doi.org/10.1016/j.compositesa.2025.109054]
 
 [D. Thomson, et al., "A review of the effect of loading rate on the mechanical properties of unidirectional carbon fibre reinforced polymer composites,” Compos Part A Appl Sci Manuf, p. 108773, Feb. 2025.](https://doi.org/10.1016/J.COMPOSITESA.2025.108773)
 
