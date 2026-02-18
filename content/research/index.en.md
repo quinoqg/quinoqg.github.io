@@ -1,6 +1,6 @@
 ---
 title: "Research"
-date: 2020-08-02T11:04:49+08:00
+date: 2026-02-18T11:04:49+08:00
 draft: false
 description: "Research activities of Gustavo Quino"
 images: ["/Research.png"]
@@ -45,6 +45,10 @@ I like to be challenged by complex experimental setups. I have designed and buil
 
 ## Publications
 ### Journal Papers
+
+[S. Riley, A. Vamvakeros, G. Quino et al., ‘Acute deformation characteristics of standard and flexible lithium-ion battery electrodes’, Communications Materials 2026 7:1, vol. 7, no. 1, pp. 53-, Jan. 2026.]( https://doi.org/10.1038/s43246-025-01064-y)
+
+
 [G. Quino and K. R. Ramakrishnan, ‘Temperature effect on dynamic translaminar fracture of thermoplastic composites’, Int J Mech Sci, vol. 304, p. 110683, Oct. 2025.](https://doi.org/10.1016/j.ijmecsci.2025.110683)
 
 [C. Zhao, G. Quino, B. Zhang, P. Robinson, and R. S. Trask, ‘The cradle test: A new experiment to characterise the compression response of pultruded rods’, Compos Part A Appl Sci Manuf, vol. 197, p. 109054, Oct. 2025.](https://doi.org/10.1016/j.compositesa.2025.109054)
@@ -78,7 +82,7 @@ I like to be challenged by complex experimental setups. I have designed and buil
 [G. Quino, J. El Yagoubi, and G. Lubineau*, “Characterizing the toughness of an epoxy resin after wet aging using compact tension specimens with non-uniform moisture content,” Polym. Degrad. Stab., vol. 109, pp. 319– 326, Aug. 2014.](https://www.sciencedirect.com/science/article/pii/S014139101400295X)
 
 ### Book Chapters
-**G. Quino**, “Impact damage analysis of composite structures using digital image correlation,” in Non-destructive Testing of Impact Damage in Fiber-Reinforced Polymer Composites, Matthew Deans, 2024, pp. 69–86. doi: 10.1016/B978-0-443-14120-1.00003-0.
+[**G. Quino**, “Impact damage analysis of composite structures using digital image correlation,” in Non-destructive Testing of Impact Damage in Fiber-Reinforced Polymer Composites, Matthew Deans, 2024, pp. 69–86.](https://doi.org/10.1016/B978-0-443-14120-1.00003-0)
 
 
 ### Conferences
