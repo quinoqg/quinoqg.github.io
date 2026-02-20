@@ -42,7 +42,7 @@ We'll:
 
 > These steps assume:
 > - You have [Homebrew](https://brew.sh/) installed
-> - You can SSH into your remote host (e.g. `ssh username@spitfire.ae.ic.ac.uk` works)
+> - You can SSH into your remote host (e.g. `ssh username@server` works)
 
 ---
 
