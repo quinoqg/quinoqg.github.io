@@ -46,6 +46,8 @@ I like to be challenged by complex experimental setups. I have designed and buil
 ## Publications
 ### Journal Papers
 
+[B. Zhang, R. Board, et al., ‘The effects of molecular fortification on the compression and shear properties of a commercial epoxy resin system’, React. Funct. Polym., vol. 226, p. 106827, Sep. 2026.](https://doi.org/10.1016/J.REACTFUNCTPOLYM.2026.106827)
+
 [S. Riley, A. Vamvakeros, G. Quino et al., ‘Acute deformation characteristics of standard and flexible lithium-ion battery electrodes’, Communications Materials 2026 7:1, vol. 7, no. 1, pp. 53-, Jan. 2026.]( https://doi.org/10.1038/s43246-025-01064-y)
 
 
