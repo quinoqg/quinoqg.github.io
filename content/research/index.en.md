@@ -46,10 +46,11 @@ I like to be challenged by complex experimental setups. I have designed and buil
 ## Publications
 ### Journal Papers
 
+[X. Hu, E. Georgiou, B. Zhang, G. Quino, and R. S. Trask, ‘Experimental and numerical characterisation on open-hole compression of fibre-reinforced plastic laminated with hybridisation of carbon/glass fibres’, Compos. Sci. Technol., vol. 286, p. 111867, Nov. 2026.](https://doi.org/10.1016/J.COMPSCITECH.2026.111867)
+
 [B. Zhang, R. Board, et al., ‘The effects of molecular fortification on the compression and shear properties of a commercial epoxy resin system’, React. Funct. Polym., vol. 226, p. 106827, Sep. 2026.](https://doi.org/10.1016/J.REACTFUNCTPOLYM.2026.106827)
 
 [S. Riley, A. Vamvakeros, G. Quino et al., ‘Acute deformation characteristics of standard and flexible lithium-ion battery electrodes’, Communications Materials 2026 7:1, vol. 7, no. 1, pp. 53-, Jan. 2026.]( https://doi.org/10.1038/s43246-025-01064-y)
-
 
 [G. Quino and K. R. Ramakrishnan, ‘Temperature effect on dynamic translaminar fracture of thermoplastic composites’, Int J Mech Sci, vol. 304, p. 110683, Oct. 2025.](https://doi.org/10.1016/j.ijmecsci.2025.110683)
 
